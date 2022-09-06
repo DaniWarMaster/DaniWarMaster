@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DaniWarMaster
 - 👀 I’m interested in ...  Video Games, Books & Programming
-- 🌱 I’m currently learning ... Game Development with C++
-<!--- 
+<!---
+- 🌱 I’m currently learning ... Game Development with C++ 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
